@@ -1,0 +1,1 @@
+{"status":"fail","msg":"Server Connection Error"} Recv failure: Connection reset by peer https://vtunaija.com.ng/api/data/

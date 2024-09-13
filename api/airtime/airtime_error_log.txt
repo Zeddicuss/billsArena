@@ -1,0 +1,1 @@
+{"status":"fail","msg":"Insufficient balance fund your wallet and try again"}

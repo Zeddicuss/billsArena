@@ -1,0 +1,133 @@
+[03-Jan-2023 02:20:03 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:20:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:02 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:02 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:09 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:21:09 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:22:15 Africa/Lagos] PHP Warning:  Undefined variable $queryC in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 02:22:15 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php:437
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/AdminController.php(387): AdminModel->updateAlphaTopup()
+#1 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/includes/route.php(168): AdminController->updateAlphaTopup()
+#2 /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/index.php(1): require_once('/home/hopejjiu/...')
+#3 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/AdminModel.php on line 437
+[03-Jan-2023 03:51:23 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/transactions.php on line 41
+[03-Jan-2023 04:28:39 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home/hopejjiu/ameenwebkey.com.ng/aminuyahayaabbas/dashboard/transactions.php on line 41
+[12-Dec-2023 09:20:23 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/civilvil/business.aduikirun.com.ng/core/Controllers/AdminController.php on line 33
+[12-Dec-2023 17:22:39 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/civilvil/business.aduikirun.com.ng/core/Controllers/AdminController.php on line 33
+[12-Dec-2023 23:00:11 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/civilvil/business.aduikirun.com.ng/core/Controllers/AdminController.php on line 33
+[13-Dec-2023 06:38:18 Africa/Lagos] PHP Notice:  Undefined index: searchfor in /home/civilvil/business.aduikirun.com.ng/admin/dashboard/transactions.php on line 41
+[14-Feb-2024 05:40:40 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/transactions.php on line 41
+[14-Feb-2024 05:40:55 Africa/Lagos] PHP Warning:  Undefined array key "searchfor" in /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/transactions.php on line 41
+[14-Feb-2024 10:41:12 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "PDO" not found in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#2 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#4 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
+[14-Feb-2024 10:41:24 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "PDO" not found in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#2 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#4 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
+[14-Feb-2024 10:41:37 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "PDO" not found in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#2 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#4 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
+[14-Feb-2024 10:41:49 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "PDO" not found in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#2 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#4 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
+[14-Feb-2024 10:41:59 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "PDO" not found in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#2 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#4 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
+[14-Feb-2024 10:42:10 Africa/Lagos] PHP Fatal error:  Uncaught Error: Class "PDO" not found in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#2 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#4 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
+[14-Feb-2024 10:44:54 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: could not find driver in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#4 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#5 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
+[14-Feb-2024 10:45:01 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: could not find driver in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#4 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#5 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
+[14-Feb-2024 10:45:13 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: could not find driver in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#4 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#5 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
+[14-Feb-2024 10:45:26 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: could not find driver in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#4 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#5 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
+[14-Feb-2024 10:47:36 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: could not find driver in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home1/mwbdotng/goocredit.mwb.ng/core/Controllers/AccountAccess.php(8): Model->__construct()
+#3 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/includes/route.php(48): AccountAccess->__construct()
+#4 /home1/mwbdotng/goocredit.mwb.ng/admin/dashboard/index.php(1): require_once('/home1/mwbdotng...')
+#5 {main}
+  thrown in /home1/mwbdotng/goocredit.mwb.ng/core/Models/Model.php on line 29
